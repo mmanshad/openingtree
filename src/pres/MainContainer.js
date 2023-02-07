@@ -234,7 +234,7 @@ export default class MainContainer extends React.Component {
           Feedback
         </ModalHeader>
         <ModalBody>
-          Your feedback is greatly appreciated. Reach out to me for feedback, suggestions, bug report or just a game of chess.
+          Your feedback is greatly appreciated brah. Reach out to me for feedback, suggestions, bug report or just a game of chess.
           <ul>
             <li>Email me: <a rel="noopener noreferrer" href={this.getEmailLink()} target="_blank">{Constants.OPENING_TREE_EMAIL}</a></li>
             <li>Message me on reddit <a rel="noopener noreferrer" href={this.getRedditLink()} target="_blank">u/{Constants.OPENING_TREE_REDDIT}</a></li>
